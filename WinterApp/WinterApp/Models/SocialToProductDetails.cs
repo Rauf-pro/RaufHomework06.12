@@ -5,7 +5,7 @@ using System.Threading.Tasks;
 
 namespace WinterApp.Models
 {
-    public class SocialToProducDetails
+    public class SocialToProductDetails
     {
     }
 }
